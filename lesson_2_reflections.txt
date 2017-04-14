@@ -6,4 +6,8 @@ How is the staging area different from the working directory and the repository?
 
 Staging area is sandbox where we chosse files to cmmit. The main value is that we can easily reset the list of files preapred to commit add/remove files as well
 
+How can you use the staging area to make sure you have one commit per logical change?
+
+I can add one file only to the staging area for example and the diff with stage 
+
 
