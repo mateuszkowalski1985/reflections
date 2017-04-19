@@ -6,4 +6,6 @@ fork - between two remote repos (when I am using u=others repo)
 clone- between local and remote repo (when I would like to download some remotes locally
 branch - between one local repo( when I am creating my own project and working on features, debug
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+You are able to work on it offline, and if collaborators break to=he code it is easier to find last working commit
 
