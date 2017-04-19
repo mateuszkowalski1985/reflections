@@ -9,3 +9,6 @@ branch - between one local repo( when I am creating my own project and working o
 What is the benefit of having a copy of the last known state of the remote stored locally?
 You are able to work on it offline, and if collaborators break to=he code it is easier to find last working commit
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+IT would be easier to get confused,
+collaboration would be very hard 
